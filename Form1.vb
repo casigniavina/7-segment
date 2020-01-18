@@ -153,4 +153,8 @@
         Timer1.Start()
 
     End Sub
+
+    Private Sub A_Click(sender As Object, e As EventArgs) Handles A.Click
+
+    End Sub
 End Class

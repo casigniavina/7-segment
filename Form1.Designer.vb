@@ -35,7 +35,7 @@ Partial Class Form1
         '
         'A
         '
-        Me.A.BackColor = System.Drawing.Color.DimGray
+        Me.A.BackColor = System.Drawing.Color.Black
         Me.A.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!)
         Me.A.Location = New System.Drawing.Point(146, 22)
         Me.A.Name = "A"
@@ -45,7 +45,7 @@ Partial Class Form1
         'B
         '
         Me.B.AccessibleName = ""
-        Me.B.BackColor = System.Drawing.Color.DimGray
+        Me.B.BackColor = System.Drawing.Color.Black
         Me.B.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!)
         Me.B.Location = New System.Drawing.Point(313, 40)
         Me.B.Name = "B"
@@ -54,7 +54,7 @@ Partial Class Form1
         '
         'C
         '
-        Me.C.BackColor = System.Drawing.Color.DimGray
+        Me.C.BackColor = System.Drawing.Color.Black
         Me.C.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!)
         Me.C.Location = New System.Drawing.Point(313, 193)
         Me.C.Name = "C"
@@ -63,7 +63,7 @@ Partial Class Form1
         '
         'D
         '
-        Me.D.BackColor = System.Drawing.Color.DimGray
+        Me.D.BackColor = System.Drawing.Color.Black
         Me.D.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!)
         Me.D.Location = New System.Drawing.Point(146, 322)
         Me.D.Name = "D"
@@ -72,7 +72,7 @@ Partial Class Form1
         '
         'E
         '
-        Me.E.BackColor = System.Drawing.Color.DimGray
+        Me.E.BackColor = System.Drawing.Color.Black
         Me.E.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!)
         Me.E.Location = New System.Drawing.Point(123, 193)
         Me.E.Name = "E"
@@ -81,7 +81,7 @@ Partial Class Form1
         '
         'F
         '
-        Me.F.BackColor = System.Drawing.Color.DimGray
+        Me.F.BackColor = System.Drawing.Color.Black
         Me.F.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!)
         Me.F.Location = New System.Drawing.Point(123, 40)
         Me.F.Name = "F"
@@ -90,7 +90,7 @@ Partial Class Form1
         '
         'G
         '
-        Me.G.BackColor = System.Drawing.Color.DimGray
+        Me.G.BackColor = System.Drawing.Color.Black
         Me.G.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!)
         Me.G.Location = New System.Drawing.Point(146, 173)
         Me.G.Name = "G"
